@@ -1,1 +1,9 @@
-
+Build: ABC 1.2.3.4
+Environment: Windows 7 x64
+Steps:
+1.	Launch ABC.
+2.	Wait for the pop-up to appear with a discount and a timer (1 hour).
+3.	Click on the 'Grab this deal' button.
+Actual result: a page opens in the browser with a timer of 1 hour and the time in the text on the left - 2 days.
+Expected result: the time in the timer and text is the same.
+Task: check within task XXX
